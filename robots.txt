@@ -1,3 +1,5 @@
 
 User-agent:*
 Disallow:
+
+Sitemap: https://mister-hope.github.io/bowen-docs/sitemap.xml
